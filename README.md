@@ -1,4 +1,4 @@
-# Alzheimer's Disease: EDA and ML Predictive Models
+# Alzheimer's Disease: machine learning Predictive Models
 ## Introduction
 Artificial intelligence and machine learning-based approaches and applications can be used to improve healthcare solutions and reducing cost.
 Applying technology in healthcare can accelerate the field's progression, including increased speed of diagnosis, accuracy, and simplicity. 
