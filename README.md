@@ -28,6 +28,15 @@ Even though machine learning can be very helpful in the medical fields, one of t
 ## Notebook
 The link for the Notebook will be here when it is available :)
 
+## Acknowledgement:
+Data were provided by OASIS:
+
+ i. OASIS: Cross-Sectional: Principal Investigators: D. Marcus, R, Buckner, J, Csernansky J. Morris; P50 AG05681, P01 AG03991, P01 AG026276, R01 AG021910, P20 MH071616, U24 RR021382
+ 
+ ii. OASIS: Longitudinal: Principal Investigators: D. Marcus, R, Buckner, J. Csernansky, J. Morris; P50 AG05681, P01 AG03991, P01 AG026276, R01 AG021910, P20 MH071616, U24 RR021382
+ 
+iii. OASIS-3: Principal Investigators: T. Benzinger, D. Marcus, J. Morris; NIH P50AG00561, P30NS09857781, P01AG026276, P01AG003991, R01AG043434, UL1TR000448, R01EB009352. AV-45 doses were provided by Avid Radiopharmaceuticals, a wholly owned subsidiary of Eli Lilly.
+
 ## Reference
 [OASIS Brains](https://www.oasis-brains.org/#data)
 
