@@ -83,10 +83,13 @@ Random Forest Classifier may be a good model to go with in both setting. Extra T
 
 Even though machine learning can be very helpful in the medical fields, one of the most important risks of machine learning-based algorithms is the reliance on the probabilistic distribution and the probability of error in diagnosis and prediction.
 
+
 ## Notebook
 1. [EDA & Data Cleansing](https://github.com/halethithu/Capstone/blob/main/Code/01_Alzheimers_Disease_EDA_and_%20DataCleansing.ipynb)
 2. [Model Selections using Pycaret and Sklearn for Dataset with 350 records](https://github.com/halethithu/Capstone/blob/main/Code/03_AD_Model_Selections_350.ipynb)
 3. [Model Selections using Pycaret and Sklearn for Dataset with 150 records](https://github.com/halethithu/Capstone/blob/main/Code/04_AD_Model_Selections_150.ipynb)
+
+[Video]
 
 ## Reference
 [OASIS Brains](https://www.oasis-brains.org/#data)
