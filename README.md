@@ -49,6 +49,7 @@ ACC : 99.14%
 Prec: 99.16%
 
 Score from the subset of 150 records of first doctor visit, each for unique subjects, Converted --> Nondemented:
+
 RidgeClassifier:
 F1_score: 99.42%
 ACC : 99.33%
@@ -78,10 +79,10 @@ Random Forest Classifier may be a good model to go with in both setting. Extra T
 Even though machine learning can be very helpful in the medical fields, one of the most important risks of machine learning-based algorithms is the reliance on the probabilistic distribution and the probability of error in diagnosis and prediction.
 
 ## Notebook
-1. [EDA & Data Cleansing]
-2. [Profiling Report]
-3. [Model Selections using Pycaret and Sklearn for Dataset with 350 records]
-4. [Model Selections using Pycaret and Sklearn for Dataset with 150 records]
+1. [EDA & Data Cleansing](https://github.com/halethithu/Capstone/commit/acafb0f51cb040ed57f6c2584ae64bd832c8d57e#diff-eb08e68572e3c8454b14207111445447a5f58d1b7b41373f1640efe669070089)
+2. [Profiling Report](https://github.com/halethithu/Capstone/commit/acafb0f51cb040ed57f6c2584ae64bd832c8d57e#diff-e0371678a36fa980453d15fde61c23c5e140b9779bca30ded0f208cb03787446)
+3. [Model Selections using Pycaret and Sklearn for Dataset with 350 records](https://github.com/halethithu/Capstone/commit/acafb0f51cb040ed57f6c2584ae64bd832c8d57e#diff-1cc6a0c39548244af142d55e6ba9798afd78eeeb86733aa0c140dad7610950d6)
+4. [Model Selections using Pycaret and Sklearn for Dataset with 150 records](https://github.com/halethithu/Capstone/commit/acafb0f51cb040ed57f6c2584ae64bd832c8d57e#diff-b8c8903a9b70f199baab3799c6a5316814ff7f911bc655eacdc469e9d94bef83)
 
 ## Reference
 [OASIS Brains](https://www.oasis-brains.org/#data)
