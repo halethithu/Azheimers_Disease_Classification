@@ -72,6 +72,8 @@ Prec: 100.00%
 
 ## Discusion
 
+CDR is an important feature in most of predictive models. The fact that this cognitive test is easy to administer and takes less than an hour to complete, making it a practical tool for use in clinical settings. The downside of this test is it does not take into account the individual’s social, cultural, and personal circumstances, which may affect their cognitive functioning.
+
 The bigger dataset seems to perform better based on F1 score, accuracy and precision.
 
 Random Forest Classifier may be a good model to go with in both setting. Extra Tree and XGBoost can be alternatives. All performed well when tested again unseen data.
