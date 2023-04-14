@@ -8,9 +8,7 @@ In this project, I will apply data science to look at Alzheimer's Disease and su
 ## Problem Statement
 - [Alhzeimer's Disease (AD)](https://www.cdc.gov/aging/aginginfo/alzheimers.htm) is a neurodegenerative disorder and is the most common cause of dementia (accounts for 60-80% of dementia cases).
 - AD worsens over time and has no cure. Detecting AD at early stage can help in preventing it from developing and delay its onset.
-- My goal in this project are:
-1. For public audience: visualize some key features of AD based on available data on this subject.
-2. For healthcare providers: use machine learning techniques to build models that can be helpful in predicting early stage AD based on MRI image of brain tissue.
+- My goal in this project is use machine learning techniques to build models that can be helpful in predicting early stage AD.
 
 ## Data
 <b>Acknowledgements:</b> datasets using in this project are provided by [OASIS](https://www.oasis-brains.org/#data):
@@ -25,9 +23,9 @@ The spreadsheets are stored in [Data Folder](https://github.com/halethithu/Capst
 
 ## Plan
 1. EDA using [Pandas](https://pandas.pydata.org/) and [Seaborn](https://seaborn.pydata.org/)
-2. Data Cleaning using [Pandas](https://pandas.pydata.org/) or/and [SQL](https://www.microsoft.com/en-ca/sql-server/sql-server-2019/)
+2. Data Cleaning using [Pandas](https://pandas.pydata.org/)
 3. Create predictive models with [Pycaret 3](https://pycaret.org/) and [Scikit-learn](https://scikit-learn.org/stable/)
-4. Data Visualization with [Power BI](https://powerbi.microsoft.com/en-us/)
+
 
 ## Discusion
 
