@@ -5,8 +5,7 @@ Artificial intelligence and machine learning-based approaches and applications c
 
 In this project, I will apply data science to look at Alzheimer's Disease and suggest some predictive models using for diagnosis.
 
-
-<img src="./Image/Alzheimers_Projections.png" alt="My Image">
+<img src="Alzheimers_Projections.png" alt="My Image" width = 200>
 
 ## Problem Statement
 - [Alhzeimer's Disease (AD)](https://www.cdc.gov/aging/aginginfo/alzheimers.htm) is a neurodegenerative disorder and is the most common cause of dementia (accounts for 60-80% of dementia cases).
