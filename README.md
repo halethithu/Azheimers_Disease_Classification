@@ -19,7 +19,7 @@ In this project, I will apply data science to look at Alzheimer's Disease and su
 
 
 ## Plan
-1. EDA using [Pandas](https://pandas.pydata.org/) and [ydata_profiling](https://pypi.org/project/ydata-profiling/)
+1. EDA using [Pandas](https://pandas.pydata.org/), [Seaborn](https://seaborn.pydata.org/) and [ydata_profiling](https://pypi.org/project/ydata-profiling/)
 2. Data Cleaning using [Pandas](https://pandas.pydata.org/)
 3. Create predictive models with [Pycaret 3](https://pycaret.org/) and [Scikit-learn](https://scikit-learn.org/stable/)
 
@@ -80,9 +80,8 @@ Even though machine learning can be very helpful in the medical fields, one of t
 
 ## Notebook
 1. [EDA & Data Cleansing](https://github.com/halethithu/Capstone/blob/main/Code/01_Alzheimers_Disease_EDA_and_%20DataCleansing.ipynb)
-2. [Profiling Report](http://02_AD_Profile_Reporting.html)
-3. [Model Selections using Pycaret and Sklearn for Dataset with 350 records](https://github.com/halethithu/Capstone/blob/main/Code/03_AD_Model_Selections_350.ipynb)
-4. [Model Selections using Pycaret and Sklearn for Dataset with 150 records](https://github.com/halethithu/Capstone/blob/main/Code/04_AD_Model_Selections_150.ipynb)
+2. [Model Selections using Pycaret and Sklearn for Dataset with 350 records](https://github.com/halethithu/Capstone/blob/main/Code/03_AD_Model_Selections_350.ipynb)
+3. [Model Selections using Pycaret and Sklearn for Dataset with 150 records](https://github.com/halethithu/Capstone/blob/main/Code/04_AD_Model_Selections_150.ipynb)
 
 ## Reference
 [OASIS Brains](https://www.oasis-brains.org/#data)
