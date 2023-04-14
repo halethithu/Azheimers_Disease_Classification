@@ -89,7 +89,7 @@ Even though machine learning can be very helpful in the medical fields, one of t
 2. [Model Selections using Pycaret and Sklearn for Dataset with 350 records](https://github.com/halethithu/Capstone/blob/main/Code/03_AD_Model_Selections_350.ipynb)
 3. [Model Selections using Pycaret and Sklearn for Dataset with 150 records](https://github.com/halethithu/Capstone/blob/main/Code/04_AD_Model_Selections_150.ipynb)
 
-[Video](https://clipchamp.com/watch/w95ZbxhlJdV/embed")
+[Video](https://clipchamp.com/watch/w95ZbxhlJdV)
 
 ## Reference
 [OASIS Brains](https://www.oasis-brains.org/#data)
