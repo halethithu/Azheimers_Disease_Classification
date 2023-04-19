@@ -75,9 +75,8 @@ Even though machine learning can be very helpful in the medical fields, one of t
 
 
 ## Notebook
-1. [EDA & Data Cleansing](https://github.com/halethithu/Capstone/blob/main/Code/01_Alzheimers_Disease_EDA_and_%20DataCleansing.ipynb)
-2. [Model Selections using Pycaret and Sklearn for Dataset with 350 records](https://github.com/halethithu/Capstone/blob/main/Code/03_AD_Model_Selections_350.ipynb)
-3. [Model Selections using Pycaret and Sklearn for Dataset with 150 records](https://github.com/halethithu/Capstone/blob/main/Code/04_AD_Model_Selections_150.ipynb)
+1. [EDA & Data Cleansing](https://github.com/halethithu/Azheimers_Disease_Classification/blob/main/Code/01_AD_EDA_Cleasing.ipynb)
+2. [Model Selections using Pycaret and Sklearn for Dataset with 350 records](https://github.com/halethithu/Azheimers_Disease_Classification/blob/main/Code/03_AD_Model_Selections_350.ipynb)
 
 [Video](https://clipchamp.com/watch/w95ZbxhlJdV)
 
