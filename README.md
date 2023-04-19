@@ -74,11 +74,12 @@ Prec: 100.00%
 
 ## Discusion
 
-CDR is an important feature in most of predictive models. The fact that this cognitive test is easy to administer and takes less than an hour to complete, making it a practical tool for use in clinical settings. The downside of this test is it does not take into account the individual’s social, cultural, and personal circumstances, which may affect their cognitive functioning.
+Extra Tree, XGboost, Random Forest: take only one feature (CDR) as the most important and perform very well thank to the colinerity. CDR is an important feature in most of predictive models. The fact that this cognitive test is easy to administer and takes less than an hour to complete, making it a practical tool for use in clinical settings. The downside of this test is it does not take into account the individual’s social, cultural, and personal circumstances, which may affect their cognitive functioning. Therefore, even though those model hit a very high score with all F1, accuracy and precision, I personally think it is overfitting.
 
-The bigger dataset seems to perform better based on F1 score, accuracy and precision. However, repeated records (2-5 for each patients) with the same background information (Socialeconomic Status, Education, Gender), only different in age may cause the models to be overfitting.
 
-Random Forest Classifier may be a good model to go with in both setting. Extra Tree and XGBoost can be alternatives. All performed well when tested again unseen data.
+LDA and LighGBM: consider more features when perform the prediction (...). Regardless a little bit lower scores, I personally think those models will give us more reasonable prediction since it can balance the downside of CDR test. We know that features like age, gender can also effect the brain volume. Also, subject's education level or socialeconomic status can also have different approach to the cognitive tests.
+
+This subset has some repeated records (2-5 for each patients) with the same background information (Socialeconomic Status, Education, Gender), only different in age may cause some kind of colinearity.
 
 Even though machine learning can be very helpful in the medical fields, one of the most important risks of machine learning-based algorithms is the reliance on the probabilistic distribution and the probability of error in diagnosis and prediction.
 
