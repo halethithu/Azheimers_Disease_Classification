@@ -8,8 +8,7 @@ In this project, I will apply data science to look at Alzheimer's Disease and su
 
 ## Problem Statement
 - [Alhzeimer's Disease (AD)](https://www.cdc.gov/aging/aginginfo/alzheimers.htm) is a neurodegenerative disorder and is the most common cause of dementia (accounts for 60-80% of dementia cases).
-- AD is one of the top 10 leading causes of death in the United States. The cost of treatment is high and [death rates](https://www.cdc.gov/nchs/data/databriefs/db116.pdf) are increasing over years.
-- AD worsens over time and has no cure. Detecting AD at early stage can help in preventing it from developing and delay its onset.
+- AD is one of the top 10 leading causes of death in the United States. The cost of treatment is high and [death rates](https://www.cdc.gov/nchs/data/databriefs/db116.pdf) are increasing over years. AD worsens over time and has no cure. Detecting AD at early stage can help in preventing it from developing and delay its onset.
 - My goal in this project is to use machine learning techniques to build models that can be helpful in predicting early stage AD.
 
 ## Data
@@ -77,7 +76,7 @@ Prec: 100.00%
 
 CDR is an important feature in most of predictive models. The fact that this cognitive test is easy to administer and takes less than an hour to complete, making it a practical tool for use in clinical settings. The downside of this test is it does not take into account the individual’s social, cultural, and personal circumstances, which may affect their cognitive functioning.
 
-The bigger dataset seems to perform better based on F1 score, accuracy and precision.
+The bigger dataset seems to perform better based on F1 score, accuracy and precision. However, repeated records (2-5 for each patients) with the same background information (Socialeconomic Status, Education, Gender), only different in age may cause the models to be overfitting.
 
 Random Forest Classifier may be a good model to go with in both setting. Extra Tree and XGBoost can be alternatives. All performed well when tested again unseen data.
 
