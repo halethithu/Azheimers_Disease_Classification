@@ -64,7 +64,7 @@ Prec: 99.07%
 
 ## Discusion
 
-Extra Tree, XGboost: take only one feature (CDR) as the most important and perform very well. CDR is an important feature in those predictive models. The fact that this cognitive test is easy to administer and takes less than an hour to complete, making it a practical tool for use in clinical settings. The downside of this test is it does not take into account the individual’s social, cultural, and personal circumstances, which may affect their cognitive functioning. Therefore, even though those model hit a very high score with all F1, accuracy and precision, this maybe because CDR score have a very high corellation with the Group outcomes.
+Extra Tree, XGboost: take only one feature (CDR) as the most important and perform very well. The fact that this cognitive test is easy to administer and takes less than an hour to complete, making it a practical tool for use in clinical settings. The downside of this test is it does not take into account the individual’s social, cultural, and personal circumstances, which may affect their cognitive functioning. Therefore, even though those model hit a very high score with all F1, accuracy and precision, this maybe because CDR score have a very high corellation with the Group outcomes.
 
 
 LDA, Random Forest and LighGBM: consider more features when perform the prediction (nWBV, MMSE). Regardless a little bit lower scores, I personally think those models will give us more reasonable prediction since it can balance the downside of CDR test. We know that features like age, gender can also effect the brain volume. Also, subject's education level or socialeconomic status can also have different approach to the cognitive tests.
